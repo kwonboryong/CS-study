@@ -26,9 +26,9 @@
 
 ---
 
-## ✏️ 목차
-
 <br/>
+
+## ✏️ 목차
 
 #### 1. 운영체제(Operating System)
   - 1.1 [운영체제](https://github.com/kwonboryong/CS_study/blob/main/CS_study/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C(Operating%20System)/1.1%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)
