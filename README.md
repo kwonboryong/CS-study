@@ -59,7 +59,12 @@
   - 3.3 [트랜잭션](https://github.com/kwonboryong/CS_study/blob/main/CS_study/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4(Database)/3.3%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
   - 3.4 [조인](https://github.com/kwonboryong/CS_study/blob/main/CS_study/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4(Database)/3.4%20%EC%A1%B0%EC%9D%B8.md)
 
+<br/>
 
+#### 4. 자료구조(Data Structure)
+  - 4.1 [복잡도](https://github.com/kwonboryong/CS_study/blob/main/CS_study/4.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(Data%20Structure)/4.1%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
+  - 4.2 [선형 자료구조](https://github.com/kwonboryong/CS_study/blob/main/CS_study/4.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(Data%20Structure)/4.2%20%EC%84%A0%ED%98%95%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
+  - 4.3 [비선형 자료구조](https://github.com/kwonboryong/CS_study/blob/main/CS_study/4.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(Data%20Structure)/4.3%20%EB%B9%84%EC%84%A0%ED%98%95%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
 
 
 <br/><br/>
