@@ -58,6 +58,7 @@
   - 3.2 [관계형 데이터베이스](https://github.com/kwonboryong/CS_study/blob/main/CS_study/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4(Database)/3.2%20%EA%B4%80%EA%B3%84%ED%98%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
   - 3.3 [트랜잭션](https://github.com/kwonboryong/CS_study/blob/main/CS_study/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4(Database)/3.3%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
   - 3.4 [조인](https://github.com/kwonboryong/CS_study/blob/main/CS_study/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4(Database)/3.4%20%EC%A1%B0%EC%9D%B8.md)
+  - [회고](https://github.com/kwonboryong/CS_study/blob/main/CS_study/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4(Database)/CS%EC%8A%A4%ED%84%B0%EB%94%94%203%EC%B0%A8%20%ED%9A%8C%EA%B3%A0.md)
 
 <br/>
 
