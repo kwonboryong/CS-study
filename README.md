@@ -66,6 +66,6 @@
   - 4.1 [복잡도](https://github.com/kwonboryong/CS_study/blob/main/CS_study/4.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(Data%20Structure)/4.1%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
   - 4.2 [선형 자료구조](https://github.com/kwonboryong/CS_study/blob/main/CS_study/4.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(Data%20Structure)/4.2%20%EC%84%A0%ED%98%95%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
   - 4.3 [비선형 자료구조](https://github.com/kwonboryong/CS_study/blob/main/CS_study/4.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(Data%20Structure)/4.3%20%EB%B9%84%EC%84%A0%ED%98%95%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
-
+  - [회고](https://github.com/kwonboryong/CS-study/blob/main/CS_study/4.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(Data%20Structure)/CS%EC%8A%A4%ED%84%B0%EB%94%94%204%EC%B0%A8%20%ED%9A%8C%EA%B3%A0.md)
 
 <br/><br/>
