@@ -3,7 +3,7 @@
 <br/>
 
 ## ⏰기간
-- 2024/08/18 ~ 09/22
+- **2024.08.18 ~ 09.22**
 
 <br/><br/>
 
@@ -67,5 +67,13 @@
   - 4.2 [선형 자료구조](https://github.com/kwonboryong/CS_study/blob/main/CS_study/4.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(Data%20Structure)/4.2%20%EC%84%A0%ED%98%95%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
   - 4.3 [비선형 자료구조](https://github.com/kwonboryong/CS_study/blob/main/CS_study/4.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(Data%20Structure)/4.3%20%EB%B9%84%EC%84%A0%ED%98%95%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
   - [회고](https://github.com/kwonboryong/CS-study/blob/main/CS_study/4.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(Data%20Structure)/CS%EC%8A%A4%ED%84%B0%EB%94%94%204%EC%B0%A8%20%ED%9A%8C%EA%B3%A0.md)
+
+<br/>
+
+#### 5. 알고리즘(Algorithm)
+  - 5.1 [정렬 알고리즘](https://github.com/kwonboryong/CS-study/blob/main/CS_study/5.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(Algorithm)/5.1%20%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
+  - 5.2 [최소 신장 트리](https://github.com/kwonboryong/CS-study/blob/main/CS_study/5.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(Algorithm)/5.2%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC.md)
+  - 5.3 [최단 거리 알고리즘](https://github.com/kwonboryong/CS-study/blob/main/CS_study/5.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(Algorithm)/5.3%20%EC%B5%9C%EB%8B%A8%20%EA%B1%B0%EB%A6%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
+
 
 <br/><br/>
