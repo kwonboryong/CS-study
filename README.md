@@ -75,5 +75,14 @@
   - 5.2 [최소 신장 트리](https://github.com/kwonboryong/CS-study/blob/main/CS_study/5.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(Algorithm)/5.2%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC.md)
   - 5.3 [최단 거리 알고리즘](https://github.com/kwonboryong/CS-study/blob/main/CS_study/5.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(Algorithm)/5.3%20%EC%B5%9C%EB%8B%A8%20%EA%B1%B0%EB%A6%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 
+<br/>
+
+#### 면접 준비
+  - 1주차 [컴퓨터 네트워크 기초](https://github.com/kwonboryong/CS-study/blob/main/CS_study/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84/1%EC%A3%BC%EC%B0%A8.md)
+  - 2주차 [HTTP](https://github.com/kwonboryong/CS-study/blob/main/CS_study/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8%20-%20(1)%20HTTP.md)
+  - 2주차 [HTTPS](https://github.com/kwonboryong/CS-study/blob/main/CS_study/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8%20-%20(2)%20HTTPS.md)
+  - 2주차 [DNS](https://github.com/kwonboryong/CS-study/blob/main/CS_study/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8%20-%20(3)%20DNS.md)
+
 
 <br/><br/>
+
