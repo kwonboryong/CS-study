@@ -1,4 +1,4 @@
-# 컴퓨터 네트워크 스터디 2주차 정리
+# 컴퓨터 네트워크 스터디 2주차 - HTTP
 
 - [HTTP 프로토콜(HyperText Transfer Protocol)](#http-프로토콜hypertext-transfer-protocol)
 - [HTTP의 요청/응답 모델](#http의-요청응답-모델)
