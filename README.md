@@ -82,6 +82,9 @@
   - 2주차 [HTTP](https://github.com/kwonboryong/CS-study/blob/main/CS_study/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8%20-%20(1)%20HTTP.md)
   - 2주차 [HTTPS](https://github.com/kwonboryong/CS-study/blob/main/CS_study/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8%20-%20(2)%20HTTPS.md)
   - 2주차 [DNS](https://github.com/kwonboryong/CS-study/blob/main/CS_study/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8%20-%20(3)%20DNS.md)
+ - 3주차 [애플리케이션 레이어](https://github.com/kwonboryong/CS-study/blob/main/CS_study/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84/3%EC%A3%BC%EC%B0%A8%20-%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EB%A0%88%EC%9D%B4%EC%96%B4.md)
+ - 4주차 [UDP & TCP](https://github.com/kwonboryong/CS-study/blob/main/CS_study/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84/4%EC%A3%BC%EC%B0%A8%20-%20UDP%20%26%20TCP.md)
+ - 5주차 [네트워크 레이어 & IP 프로토콜](https://github.com/kwonboryong/CS-study/blob/main/CS_study/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84/5%EC%A3%BC%EC%B0%A8%20-%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%A0%88%EC%9D%B4%EC%96%B4%20%26%20IP%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md)
 
 
 <br/><br/>
